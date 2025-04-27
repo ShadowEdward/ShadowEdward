@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Edward+%E2%9C%A8;Cybersecurity+%26+Automation+Enthusiast;Ping+127.0.0.1+...+Success+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
 <div align="center">
 
-# ✨ Hey, I'm Edward 👋 ✨
+# 💫 Hey, I'm Edward 👋 💫
 
 ### A 16-year-old cybersecurity & automation enthusiast from Romania.
 
@@ -44,7 +50,6 @@
 
 ### 🔖 Featured Projects
 
-- [Auto-Audit Tool](https://github.com/Shadow/auto-audit) — Automates Nmap + Nikto + PDF Reporting
 - [Phishing Detector](https://github.com/Shadow/phishing-detector) — Detects phishing websites automatically
 
 ---
