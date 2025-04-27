@@ -1,16 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Edward+%E2%9C%A8;Cybersecurity+%26+Automation+Enthusiast;Ping+127.0.0.1+...+Success+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
-
 <div align="center">
 
-# 💫 Hey, I'm Edward 👋 💫
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=9F5FFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Edward+%E2%9C%A8" alt="Edward Header">
+</h1>
 
-### A 16-year-old cybersecurity & automation enthusiast from Romania.
+<p align="center" style="font-size:20px;">
+  A 16-year-old cybersecurity & automation enthusiast from Romania.
+</p>
 
-![Stars](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
@@ -36,21 +34,20 @@
 ### 🛡️ My Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-ff5722?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-<img src="https://img.shields.io/badge/Nessus-239B56?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,nmap,git,php,lua,html,css,js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-ff5722?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
 ### 🔖 Featured Projects
 
-- [Phishing Detector](https://github.com/Shadow/phishing-detector) — Detects phishing websites automatically
+- [Phishing Detector](https://github.com/ShadowEdward/phishing-detector) — Detects phishing websites automatically
 
 ---
 
@@ -58,6 +55,6 @@
 
 ### "Security is not a product, but a process."
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shadow&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ShadowEdward&style=flat-square&color=blue)
 
 </div>
