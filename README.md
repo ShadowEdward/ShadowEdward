@@ -34,7 +34,7 @@
 ### 🛡️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,nmap,git,php,lua,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,linux,,git,php,lua,html,css,js" />
 </p>
 
 <p align="center">
