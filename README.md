@@ -1,58 +1,12 @@
-<div align="center" style="position: relative; overflow: hidden; padding: 50px 0; background: #000;">
-
-  <h1 style="font-size: 3em; background: linear-gradient(90deg, #9f5fff, #ff72b0); -webkit-background-clip: text; color: transparent; animation: shimmer 4s infinite;">
-    Hey, I'm Edward ✨
-  </h1>
-
-  <p style="font-size: 1.5em; color: #00FF00;">
-    $whoami<span id="blink">_</span>
-  </p>
-
-  <!-- Steluțe albastre -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    <div style="position: absolute; top: 20%; left: 30%; width: 5px; height: 5px; background: #00FFFF; border-radius: 50%; animation: pulse 2s infinite;"></div>
-    <div style="position: absolute; top: 60%; left: 70%; width: 4px; height: 4px; background: #00FFFF; border-radius: 50%; animation: pulse 3s infinite;"></div>
-    <div style="position: absolute; top: 40%; left: 50%; width: 6px; height: 6px; background: #00FFFF; border-radius: 50%; animation: pulse 1.5s infinite;"></div>
-    <div style="position: absolute; top: 80%; left: 20%; width: 5px; height: 5px; background: #00FFFF; border-radius: 50%; animation: pulse 2.5s infinite;"></div>
-  </div>
-
-</div>
-
-<!-- Animații -->
-<style>
-@keyframes shimmer {
-  0% { background-position: -500px; }
-  100% { background-position: 500px; }
-}
-
-@keyframes pulse {
-  0% { opacity: 0.3; }
-  50% { opacity: 1; }
-  100% { opacity: 0.3; }
-}
-
-#blink {
-  animation: blink-animation 1s steps(2, start) infinite;
-}
-
-@keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
-}
-</style>
-
 <div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=9F5FFF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Edward+✨;Cybersecurity+%26+Automation+Enthusiast;$whoami_" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/ShadowEdward/ShadowEdward/main/hey_im_edward.gif" alt="Hey, I'm Edward ✨ Header" />
+<p>
+<img src="https://img.shields.io/badge/Certified-Cybersecurity%20Student-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Certified-Cybersecurity%20Student-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
 
 ---
 
