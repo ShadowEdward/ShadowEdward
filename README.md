@@ -44,7 +44,7 @@
 
 ### 📌 Featured Projects
 
-- [Phishing Detector](https://github.com/ShadowEdward/phishing-detector) — Detects phishing websites automatically
+- [Phishing Detector](https://github.com/ShadowEdward/phishing-detector) — Detects phishing emails automatically
 
 ---
 
