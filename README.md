@@ -21,7 +21,7 @@
 ### 🌐 Connect with Me
 
 - 📧 Email: [contact@cyberedw.ro](mailto:contact@cyberedw.ro)
-- 🌐 Website: [cyberedw.ro](https://cyberedw.ro)
+- 🌐 Website: [cyberedw.ro](https://www.cyberedw.ro)
 - 💬 Discord: shadowedward
 - 🧩 LinkedIn: [edward-todor](https://www.linkedin.com/in/edward-todor-9a20762aa/)
 
